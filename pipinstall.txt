@@ -1,0 +1,10 @@
+pip install dagster prefect dagit pandas numpy
+
+to init new poetry project:
+	poetry new PROJECT
+	cd PROJECT
+	poetry init
+	poetry add ...
+	poetry shell
+	cd ..
+	run
