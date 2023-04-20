@@ -1,4 +1,4 @@
-from pipelines.DB import *
+from pipelines.task_Bezlyudnyivi411 import *
 
 class BaseTask:
     """Base Pipeline Task"""
